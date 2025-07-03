@@ -1,0 +1,138 @@
+﻿1. 🎓 Öğrenciye Eğitim Hatırlatma ve Teşvik Maili
+Merhaba Ahmet,
+Umarım bu mail sana keyifli ve verimli geçen bir haftanın ardından ulaşıyordur.
+Geçtiğimiz hafta “.NET Core ile Web API Geliştirme” eğitimine harika bir başlangıç yaptın. Derslerdeki aktif katılımın ve sorularınla yalnızca kendi gelişimini değil, aynı zamanda sınıf dinamiğini de çok olumlu etkiledin. Bu hafta sonu Cumartesi günü saat 20:00’de Zoom üzerinden gerçekleştireceğimiz canlı oturuma seni mutlaka bekliyoruz.
+Bu oturumda özellikle JWT tabanlı kimlik doğrulama konusunu işleyeceğiz ve bu, seni ileri düzey API projelerine hazırlayacak çok kritik bir konu.
+Ayrıca unutmadan hatırlatmak isterim: İlk haftanın ödevi olan “Kategori bazlı ürün listeleme API’si” teslim tarihi Pazar 23:59. Lütfen zamanında teslim etmeye çalış, çünkü ödevler seni projeye daha sağlam hazırlamak için yapılandırıldı.
+Her türlü teknik soru veya destek ihtiyacında bana direkt mail atabilirsin. Seninle bu yolculuğu yürümekten çok memnunum.
+Görüşmek üzere!
+
+2. 💼 Müşteriye Proje Teslimatı ve Geri Bildirim Talebi
+Sayın Aydın Bey,
+Öncelikle işbirliğiniz ve sabrınız için tekrar teşekkür ederiz. Tarafımıza ilettiğiniz talepler doğrultusunda, e-ticaret projenizin “Yönetim Paneli” kısmını başarıyla tamamladık.
+Sisteminizde şu an itibariyle çalışan modüller:
+
+Ürün Ekleme ve Listeleme
+
+Sipariş Takibi ve Detay Görüntüleme
+
+Kullanıcı Rollerine Göre Yetkilendirme
+
+Kampanya Yönetimi
+
+Dashboard üzerinden anlık istatistik takibi
+Panelinize admin.siteniz.com adresinden, sizinle paylaştığımız kullanıcı bilgileriyle erişebilirsiniz.
+Tüm test senaryoları tamamlandı, ancak sizden de son bir geri bildirim alarak yayına alma sürecine geçmek istiyoruz.
+Herhangi bir sorun, eksiklik ya da geliştirme talebiniz olursa bize dönüş sağlamaktan çekinmeyin.
+Sizin memnuniyetiniz bizim için çok değerli. Yeni projelerde tekrar çalışmak ümidiyle…
+
+3. 🔧 Teknik Destek Talep Maili
+Merhaba Teknik Destek Ekibi,
+Bugün saat 10:15 civarında CRM panelimize giriş yapmaya çalıştığımda sistem “Sunucuya şu anda ulaşılamıyor” uyarısı verdi. Önce geçici bir sorun sandım fakat 30 dakika sonra tekrar denediğimde de aynı hatayı almaya devam ettim.
+Şirket içindeki 3 farklı bilgisayardan ve ayrıca kendi mobil cihazımdan da deneme yaptım ancak sonuç değişmedi. Tarayıcı önbelleğini temizledim, farklı ağlar üzerinden test ettim, yine aynı.
+Panel versiyonunun güncel olup olmadığını da kontrol ettim, son versiyonu kullanıyoruz. Sistemin çökme ihtimaline karşı log kayıtlarını inceledim fakat uygulama tarafında tetiklenmiş özel bir hata görünmüyor.
+Müşteri yönetimimizi bu panel üzerinden yürüttüğümüz için bu aksaklık kritik. Birçok görüşme ve teklif süreci şu anda askıya alınmış durumda.
+Acil geri dönüşünüzü rica ediyorum. Gerekirse log dosyalarını da sizinle paylaşabilirim.
+İyi çalışmalar dilerim.
+
+4. 📝 İş Başvurusu Maili (Junior Developer)
+Merhaba [Firma Adı] İnsan Kaynakları Ekibi,
+LinkedIn üzerinden yayınlamış olduğunuz "Junior .NET Developer" ilanınızı büyük bir ilgiyle inceledim. Üniversite eğitimimi Bilgisayar Mühendisliği alanında tamamladım ve son 1 yıldır hem bireysel hem de ekip tabanlı projelerde ASP.NET Core, Entity Framework, SQL Server gibi teknolojilerle projeler geliştirmekteyim.
+Github profilimde açık kaynak olarak yayınladığım Mini E-Ticaret API, Blog Yönetim Paneli ve JWT Authentication yapısını kullandığım kullanıcı sistemi gibi projelerle back-end alanında kendimi ciddi şekilde geliştirme fırsatı buldum.
+Takım çalışmasına yatkın, öğrenmeye istekli ve çözüm odaklı bir geliştirici olarak, firmanız bünyesinde katkı sunmayı çok isterim. CV’mi ve projelerimin yer aldığı portfolyo bağlantımı aşağıya ekledim.
+Geri dönüşünüzü heyecanla bekliyor olacağım.
+İyi çalışmalar dilerim.
+Murat Yücedağ
+[LinkedIn Profil Linki]
+[Github Linki]
+[E-posta / Telefon]
+
+
+6. 📅 Toplantı Hatırlatma ve Gündem Maili
+Merhaba Takım,
+Yarın sabah saat 10:00’da Google Meet üzerinden gerçekleştireceğimiz haftalık değerlendirme toplantımızla ilgili kısa bir hatırlatma yapmak istiyorum.
+Toplantı gündemimiz şu şekilde olacak:
+
+Devam eden projelerde son durum değerlendirmesi
+
+Yeni gelen müşteri taleplerinin teknik uygunluk analizi
+
+Deploy süreçlerinde yaşanan son gecikmelerin nedenleri
+
+UI/UX tarafında yapılacak olan tasarım güncellemeleri
+
+Haziran ayı hedeflerinin netleştirilmesi
+Toplantının daha verimli geçmesi adına her ekipten bir kişinin kısa bir ilerleme özeti hazırlamasını rica ediyorum.
+Bağlantı linki: [Toplantı Linki]
+Görüşmek üzere,
+Murat
+
+7. 👨‍💼 Referans Talep Maili (Eğitmen veya Mentoruna)
+Merhaba Hocam,
+Umarım her şey yolundadır. Size danışmak ve ufak bir ricada bulunmak istiyorum.
+Geçtiğimiz yıl katıldığım “Full Stack Yazılım Geliştirme Bootcamp” programında sizin liderliğinizde çok değerli bilgiler öğrendim. Özellikle son projede .NET Core ile geliştirdiğim “Online Rezervasyon Sistemi” uygulaması, sizin yorumlarınız sayesinde çok daha sağlam hale gelmişti.
+Şu sıralar bazı yazılım firmalarına iş başvurularında bulunuyorum. Özgeçmişimde yer alması ve başvurularımda bana katkı sağlaması açısından, sizden bir referans mektubu ya da e-posta yoluyla destek rica etsem beni çok mutlu edersiniz.
+Dilerseniz daha önce birlikte yaptığımız projeleri ve hangi konularda destek olduğunuzu özet olarak iletebilirim.
+İlginize ve zamanınıza şimdiden teşekkür ederim.
+
+8. 💡 Ürün/Geliştirme Önerisi Maili (SaaS Firma İçin)
+Merhaba [Firma Adı] Ürün Ekibi,
+CRM panelinizi 3 aydır aktif olarak kullanıyorum. Arayüzün kullanıcı dostu olması ve temel ihtiyaçlara hitap etmesi oldukça güzel. Ancak bir noktada geliştirme önerisinde bulunmak istiyorum.
+Özellikle müşteri profili görüntüleme ekranında, müşteriyle ilgili geçmiş görüşmelerin sıralandığı kısım çok dar bir alana yerleştirilmiş. Eğer bu alan genişletilip ayrıca filtreleme eklenirse (örneğin “Sadece mail görüşmeleri”, “Sadece satış sonrası destek” gibi), çok daha kullanışlı hale gelebileceğini düşünüyorum.
+Ayrıca, anlık bildirim sisteminizin webhook desteği sunması harika olurdu. Slack gibi platformlarla entegre olması operasyon süreçlerini hızlandırır.
+Umarım bu öneriler değerlendirilir. Ürününüze ve emeğinize sağlık.
+İyi çalışmalar.
+
+9. 🤝 İşbirliği Talep Maili (Danışmanlık Teklifi)
+Merhaba [Ajans/Firma Adı],
+Ben Murat Yücedağ. “M&Y Yazılım Eğitim Akademisi” olarak bireylere ve kurumlara özel yazılım eğitimleri, teknik mentorluk ve danışmanlık hizmetleri veriyoruz.
+Son dönemde özellikle kurumsal firmalarla yürüttüğümüz özel projelerde, kısa sürede büyük verim alınabilecek eğitim setleri hazırladık.
+Sizin gibi alanında yetkin bir firma ile iş birliği yapmak bizim için çok kıymetli olur.
+Eğer uygun görürseniz, size özel bir demo oturumu sunmak ve işleyişimizi aktarmak isterim.
+İlgilenirseniz müsait olduğunuz bir zaman diliminde kısa bir görüşme planlayabiliriz.
+Geri dönüşünüzü heyecanla bekliyorum.
+İyi çalışmalar.
+
+10. 💬 Motivasyon ve Teşekkür Maili (Ekip İçin)
+Merhaba Ekibim,
+Zaman zaman yoğunluk, stres, sıkışan takvimler hepimizin motivasyonunu zorlayabiliyor. Ama bugün sizlere sadece bir şey söylemek istiyorum: İyi ki varsınız.
+Son 2 ayda geliştirdiğimiz “Travisa Forum” projesinde gösterdiğiniz özveri, gece gündüz demeden çalışmanız, çözüm üretmeye olan isteğiniz beni gerçekten duygulandırdı.
+Bu projeyi zamanında teslim etmemizi sağlayan şey sadece teknik bilgi değil; aramızdaki takım ruhu, güven ve iletişim.
+Lütfen bugün bir dakikanızı ayırıp geriye dönüp bakın: Neler başardık? Nereden nereye geldik?
+Ben sizinle gurur duyuyorum.
+Hadi şimdi bir sonraki başarıya odaklanalım.
+Selamlar,
+Murat
+
+------------------
+<p>Merhaba <strong>İnsan Kaynakları Ekibi</strong>,</p>
+
+<p>
+İzin planlamam kapsamında, <strong>4 günlük</strong> kısa bir Avrupa seyahati planladığımı sizlerle paylaşmak istiyorum. 
+Bu seyahat <em>06 Haziran Perşembe</em> sabahı başlayacak ve <em>09 Haziran Pazar</em> akşamı sona erecek şekilde organize edilmiştir. 
+Toplamda <span style="color: #28a745;"><strong>2 iş günü</strong></span> izin talebinde bulunuyorum (Perşembe ve Cuma).
+</p>
+
+<p>
+Seyahatin rotası <strong style="color:#007bff;">İtalya</strong> olacak. Program detayları şu şekildedir:
+<ul>
+  <li><strong>1. Gün - Roma:</strong> Vatikan, Kolezyum ve Trevi Çeşmesi gezisi</li>
+  <li><strong>2. Gün - Floransa:</strong> Duomo Meydanı ve Rönesans Müzesi turu</li>
+  <li><strong>3. Gün - Pisa:</strong> Eğik Kule ziyareti ve sahil kenarı serbest zaman</li>
+  <li><strong>4. Gün - Milano:</strong> Katedral ve alışveriş caddelerinde serbest gezi</li>
+</ul>
+</p>
+
+<p>
+Yolculuğum boyunca, proje teslim takvimini etkileyecek herhangi bir durum yaşanmayacaktır. 
+Tüm görevlerimi öncesinde teslim edecek şekilde organize oldum. Ayrıca, acil durumlar için 
+e-posta ve telefon yoluyla ulaşılabilir durumda olacağım.
+</p>
+
+<p>
+İznimin uygun görülmesi durumunda gerekli sisteme girişleri sağlayacağım. 
+İyi çalışmalar dilerim.
+</p>
+
+<p><em>Saygılarımla,</em><br />
+<strong>Murat Yücedağ</strong></p>
