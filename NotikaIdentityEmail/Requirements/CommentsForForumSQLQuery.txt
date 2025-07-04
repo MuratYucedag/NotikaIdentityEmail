@@ -1,0 +1,32 @@
+﻿INSERT INTO [NotikaEmailDb].[dbo].[Comments] 
+(CommentDetail, CommentDate, CommentStatus, AppUserId) 
+VALUES
+-- Yapay Zeka üzerine bir yorum
+('ChatGPT gibi modeller sayesinde içerik üretimi ciddi anlamda hız kazandı.', GETDATE(), N'Yorum onaylandı', '045f941b-89e7-4628-ab93-c7db27ca2737'),
+
+-- Teknoloji hakkında eleştirel bir yorum
+(N'Yeni çıkan iPhone modeli sadece tasarım değişikliğiyle geldi, yenilik yok denecek kadar az.', GETDATE(), N'Yorum onaylandı', '17d8979e-d2d7-41be-ba75-727852b39848'),
+
+-- Spor üzerine motive edici bir yorum
+(N'Milli takım bu sene inanılmaz bir performans sergiliyor, gurur verici!', GETDATE(), N'Yorum onaylandı', '1cc950b0-acd5-4c78-a12f-4d984bd0798e'),
+
+-- Güvenlik konulu bilgilendirici yorum
+(N'2FA kullanmayan sistemler artık büyük risk altında, kullanıcıların güvenliği için şart.', GETDATE(), N'Yorum onaylandı', '2d4fffe2-a6f3-4299-bef6-595a14e485d6'),
+
+-- Tartışmalı/toksik bir yorum
+(N'Bu yazılım ekibi resmen iş bilmez, kaç haftadır aynı hatayı çözemiyorlar!', GETDATE(), N'Toksik yorum', '3ee3a60c-60d7-457f-8b8c-656ad60c5787'),
+
+-- Silinmiş yorum
+(N'Bu yorum kuralları ihlal ettiği için silinmiştir.', GETDATE(), N'Yorum silindi', '3f784b82-c336-4201-bd2e-f5a3febc33d1'),
+
+-- Yapay zeka geleceği hakkında fikir
+(N'Yapay zeka yakında sadece işlerimizi değil, kararlarımızı da etkilemeye başlayacak gibi.', GETDATE(), N'Yorum onaylandı', '1cc950b0-acd5-4c78-a12f-4d984bd0798e'),
+
+-- Kripto teknolojisi hakkında yorum
+(N'Blockchain teknolojisi sadece kripto değil, tedarik zinciri takibi gibi alanlarda da çok güçlü.', GETDATE(), N'Yorum onaylandı', '2d4fffe2-a6f3-4299-bef6-595a14e485d6'),
+
+-- Sporda yapay zeka kullanımı
+(N'Veri analitiği ile futbol maçlarında oyuncu performansları daha iyi analiz ediliyor.', GETDATE(), N'Yorum onaylandı', '17d8979e-d2d7-41be-ba75-727852b39848'),
+
+-- Bilgi güvenliği hakkında teknik bir yorum
+(N'Veritabanı şifreleme ve token bazlı erişim kontrolü artık her uygulamada standart olmalı.', GETDATE(), N'Yorum onaylandı', '045f941b-89e7-4628-ab93-c7db27ca2737');
